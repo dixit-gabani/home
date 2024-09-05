@@ -1,0 +1,16 @@
+{
+  "ads_id": {
+    "status": true,
+    "google": {
+      "status": true,
+      "reward": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "app_open": "ca-app-pub-3940256099942544/9257395921",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+    }
+  },
+  "update": {
+    "version": 1,
+    "link": "https://play.google.com/store/apps/details?id=com.bank.balance.checker.and.enquiry"
+  }
+}
